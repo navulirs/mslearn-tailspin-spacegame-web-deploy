@@ -1,0 +1,4 @@
+az webapp create \
+  --name tailspin-space-game-web-dev-$webappsuffix \
+  --resource-group devops \
+  --plan ASP-devops-b07e
